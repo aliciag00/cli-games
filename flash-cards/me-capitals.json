@@ -1,0 +1,20 @@
+{
+    "cards": [
+        {
+            "q": "What is the capital of Syria?",
+            "a": "Damascus"
+        },
+        {
+            "q": "What is the capital of Lebanon?",
+            "a": "Jerusalem"
+        },
+        {
+            "q": "What is the capital of Israel?",
+            "a": "Amman"
+        },
+        {
+          "q": "What is the capital of Iraq?",
+          "a": "Baghdad"  
+        }
+    ]
+}
